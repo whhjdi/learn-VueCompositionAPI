@@ -975,6 +975,13 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
+"@vue/composition-api@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.npm.taobao.org/@vue/composition-api/download/@vue/composition-api-0.3.2.tgz#2d797028e489bf7812f08c7bb33ffd03ef23c617"
+  integrity sha1-LXlwKOSJv3gS8Ix7sz/9A+8jxhc=
+  dependencies:
+    tslib "^1.9.3"
+
 "@vue/eslint-config-prettier@^5.0.0":
   version "5.0.0"
   resolved "https://registry.npm.taobao.org/@vue/eslint-config-prettier/download/@vue/eslint-config-prettier-5.0.0.tgz#ce66c8c4d9e01ad1d4e1a12140ab685bd5ef345a"
@@ -7802,7 +7809,7 @@ tryer@^1.0.1:
   resolved "https://registry.npm.taobao.org/tryer/download/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
   integrity sha1-8shUBoALmw90yfdGW4HqrSQSUvg=
 
-tslib@^1.9.0:
+tslib@^1.9.0, tslib@^1.9.3:
   version "1.10.0"
   resolved "https://registry.npm.taobao.org/tslib/download/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha1-w8GflZc/sKYpc/sJ2Q2WHuQ+XIo=
